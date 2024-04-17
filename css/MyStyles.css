@@ -1,0 +1,57 @@
+#top{
+    text-decoration:underline;
+}
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-style: italic;
+}
+
+.resume{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+.resumesub{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+img{align-items: center;
+width: 700px;}
+
+.NavigationTab{
+  font-style: normal;
+  text-align:en;
+}
+
+.emphasizedText{
+    font-style :italic;
+    color:#002E5D}
+
+body{
+    background-color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border: 20px solid rgb(74, 74, 74);
+    padding:10px;
+    margin:50px;
+}
+
+ul li{
+    list-style-position: inside;
+}
+ol li{
+    list-style-position: inside; 
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+#tableauPlaceholder{
+    size: 10px;
+}
